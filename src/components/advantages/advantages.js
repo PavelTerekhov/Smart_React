@@ -3,7 +3,7 @@ import cup from '../../recources/cup.png';
 import heart from '../../recources/heart.png';
 import shoe from '../../recources/shoe.png';
 
-import '../title/_title.scss';
+import '../base/_title.scss';
 import './advantages.scss';
 
 const Advantages = () => {

@@ -3,6 +3,7 @@
 import Promo from '../promo/promo';
 import Advantages from '../advantages/advantages';
 import Consultation from '../consultation/consultation';
+import Carousel from '../carousel/carousel';
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
         <Promo/>
         <Advantages/>
         <Consultation/>
+        <Carousel/>
       </div> 
   );
 }

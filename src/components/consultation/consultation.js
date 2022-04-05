@@ -1,9 +1,9 @@
 
 
 
-import './feed-form.scss';
-import '../buttons/_button.scss';
-import '../title/_title.scss';
+import '../base/feed-form.scss';
+import '../base/_button.scss';
+import '../base/_title.scss';
 import './consultation.scss';
 
 

@@ -3,7 +3,7 @@ import timer from '../../recources/timer.png';
 import hand from '../../recources/hand.png';
 import messages from '../../recources/messages.png';
 
-import '../container/container.scss';
+import '../base/container.scss';
 import './promo.scss';
 
 const Promo = () => {
