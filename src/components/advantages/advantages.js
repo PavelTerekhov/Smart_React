@@ -1,7 +1,7 @@
 
-import cup from '../../recources/cup.png';
-import heart from '../../recources/heart.png';
-import shoe from '../../recources/shoe.png';
+import cup from '../../recources/cup.svg';
+import heart from '../../recources/heart.svg';
+import shoe from '../../recources/shoe.svg';
 
 import '../base/_title.scss';
 import './advantages.scss';
